@@ -25,7 +25,7 @@ x1 = 2, y1 = 7, x2 = 8, y2 = 4
 
 Rectangle(2, 7, 8, 4) created
 
- Rectangle (2, 7, 8, 4)   r =    Output: Rectangle(2, 7, 8, 4) created  
+![image-20210903110402032](C:\Users\DEMO\AppData\Roaming\Typora\typora-user-images\image-20210903110402032.png)
 
 ## Coding Exercise
 
